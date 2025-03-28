@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Coding Temple as Software Engineering Instructor.
-- 🧑🏻‍💻 As side projects, I'm working at [miexperienciacomo.com](https://mi-experiencia-como-landing.vercel.app/) and [Qik Connect](https://qikstarts.com/]).
+- 🧑🏻‍💻 As side projects, I'm working at [miexperienciacomo.com](miexperienciacomo.com) and [Qik Connect](https://qikstarts.com/]).
 - 🌱 I’m always learning about Web and AI Development.
 - 🎥 I have a [YouTube channel](https://www.youtube.com/@DaniiEE) where I teach about software.
 - 👯 I’m looking to collaborate on amazing projects.
