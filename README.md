@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Coding Temple as Software Engineering Instructor.
+- 🔭 I’m currently working at Muyu Education as Product Owner and Content Strategy Lead.
 - 🧑🏻‍💻 As side projects, I'm working at [miexperienciacomo.com](https://www.miexperienciacomo.com/) and [scriptio.com](https://www.scriptioo.com/)
 - 🌱 I’m always learning about Web and AI Development.
 - 🎥 I have a [YouTube channel](https://www.youtube.com/@DaniiEE) where I teach about software.
