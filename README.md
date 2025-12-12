@@ -13,10 +13,6 @@
 ### Stats ⚡️
 ___________________________________________________________________
 
-<a href="https://git.io/streak-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danii2020&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danii2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Danii2020)](https://git.io/streak-stats)
+
 
